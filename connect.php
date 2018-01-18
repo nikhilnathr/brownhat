@@ -1,0 +1,1 @@
+<?php $con=mysqli_connect("mysql.0zed.com","u511919336_brown","needforspeed2","u511919336_cmnts"); if(mysqli_connect_errno()){    echo mysqli_connect_error();    exit();} ?>
